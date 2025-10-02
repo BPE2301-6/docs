@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gitflow.md",
+                "file": "backend/arhitecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gitflow"
+              "title": "arhitecture"
             }
           }
         ]
@@ -180,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43da9c509f6d4aa4",
+  "active": "7062feb49baf0ebb",
   "lastOpenFiles": [
-    "backend/arhitecture.md",
+    "2025-10-02.md",
     "gitflow.md",
+    "backend/arhitecture.md",
     "frontend/architecture.md",
     "Untitled.md",
     "gitflow",
